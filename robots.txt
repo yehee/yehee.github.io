@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://alice-0-kim.github.io/sitemap.xml
-Host: https://alice-0-kim.github.io
+Sitemap: https://yehee.github.io/sitemap.xml
+Host: https://yehee.github.io
