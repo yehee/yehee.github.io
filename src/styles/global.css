@@ -4,9 +4,12 @@
   License MIT: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md
  */
 
+ @import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;600&display=swap');
+ 
 :root {
-	--accent: #2337ff;
-	--accent-dark: #000d8a;
+	--accent: #6DBF76;
+	--accent-light: #D6E8D0;
+	--accent-dark: #1E2B1F;
 	--black: 15, 18, 25;
 	--gray: 96, 115, 159;
 	--gray-light: 229, 233, 240;
@@ -55,6 +58,7 @@ h3,
 h4,
 h5,
 h6 {
+	font-family: "Lora", serif;
 	margin: 0 0 0.5rem 0;
 	color: rgb(var(--black));
 	line-height: 1.2;
